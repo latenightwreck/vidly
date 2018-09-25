@@ -15,7 +15,7 @@
     "express": "^4.16.2",
     "express-async-errors": "^3.0.0",
     "fawn": "^2.1.5",
-    "joi": "^13.1.0",
+    "joi": "^13.6.0",
     "joi-objectid": "^2.0.0",
     "jsonwebtoken": "^8.3.0",
     "lodash": "^4.17.10",
