@@ -2,3 +2,4 @@ node_modules/
 logfile.log
 uncaughtExcpetions.log
 .vscode/
+coverage/
